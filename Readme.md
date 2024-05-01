@@ -7,9 +7,17 @@
 </div>
 
 
-# 🔍 Overview
-
-TutorsHere is an online platform where a student search for tutors of their desired academic study. This platform also help tutors to search for various students to explore their teaching skills.
+# 🔍 Overview 
+  <table>
+<tr>
+<td >
+<p align=center>
+  TutorsHere is an online platform where a student search for tutors of their desired academic study. 
+  This platform also help tutors to search for various students to explore their teaching skills.
+</p>
+</td>
+</tr>
+</table>
 
 # ⚡Features
 - Student SignUp
@@ -19,11 +27,15 @@ TutorsHere is an online platform where a student search for tutors of their desi
 
 
 # ⚙️Technology Stack 
-Frontend: ASP Controls, HTML, CSS, JavaScript, Bootstrap
-Backend: ASP.NET Framework (C#)
-Programming Language: C#
-Database: SQL Server Management Studio
-Developing Platform: Microsoft Visual Studio 
+
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,dotnet,visualstudio,bootstrap)](https://skillicons.dev)
+
+- Frontend: ASP Controls, HTML, CSS, Bootstrap
+- Backend: ASP.NET Framework (C#)
+- Programming Language: C#
+- Database: SQL 
+- Developing Platform: Microsoft Visual Studio 
+
 # 📤Output Snippets
 <div align=center> <h3>🔹Main page🔹</h3> </div>
   

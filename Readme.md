@@ -1,14 +1,20 @@
-## TutorsHere
-An Online Tutor Finding System
+<div align="center"> 
+  
+  # TutorsHere 
+  ## An Online Tutor Finding System
+  
+  
+</div>
 
-## Description:
+
+## 📍Description
 TutorsHere is an online platform where a student search for tutors of their desired academic study. This platform also help tutors to search for various students to explore their teaching skills.
 
-## Features:
-1.Student SignUp
-2.Tutor SignUp
-3.Profile building
-4.Search Filter
+## Features
+- Student SignUp
+- Tutor SignUp
+- Profile building
+- Search Filter
 
 
 ## Technology Stack 

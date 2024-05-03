@@ -60,4 +60,10 @@
 
 </div>
 
+# 📊Architectural Diagram
 
+<div align=center>
+  
+![Architectural diagram](https://github.com/safwanmujawar16/TutorsHere/assets/139694210/371790e0-36be-4a3b-8ec9-20537f18f73a)
+
+</div>

@@ -73,12 +73,11 @@
 - Fork and Clone the repository into Microsoft Visual Studio and open TutorsHere.sln file
 - Install SQL Server and SQL Server Management Studio both in the system
 - Create database named as TutorsHere_db and create four tables Admin_login, Contact_tbl, student_signup, tutor_signup respectively
-- Connect SQL Server name with the Visual Studio 
+- Connect SQL Server with the Visual Studio 
 - After connecting the sql server, <br> 
 Go to web.config file <br>
-In <connectionStrings> <br> 
-	<add name="dbcs" connectionString="Data Source=(give the data source of created TutorsHere database)"/>
-</connectionStrings> <br>
+In connectionString tag followed by add tag,<br>
+ Data Source= (give the data source of TutorsHbrere database)<br>
 - Once the database connection is done, <br> 
-Right click on Default.aspx file and click on "set as start page"
+Right click on Default.aspx file and click on "set as start page">
 - Run the Play Icon ▶️

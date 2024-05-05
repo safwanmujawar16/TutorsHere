@@ -77,7 +77,8 @@
 - After connecting the sql server, <br> 
 Go to web.config file <br>
 In connectionString tag followed by add tag,<br>
- Data Source= (give the data source of TutorsHbrere database)<br>
+Change the Data Source<br>
+Data Source= (give the data source of TutorsHbrere database)<br>
 - Once the database connection is done, <br> 
 Right click on Default.aspx file and click on "set as start page">
 - Run the Play Icon ▶️
